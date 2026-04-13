@@ -3,7 +3,7 @@ TERMUX_PKG_DESCRIPTION="Userspace interface to kernel DRM services"
 TERMUX_PKG_LICENSE="MIT"
 TERMUX_PKG_MAINTAINER="@termux"
 TERMUX_PKG_VERSION="2.4.131"
-TERMUX_PKG_SRCURL=https://dri.freedesktop.org/libdrm/libdrm-${TERMUX_PKG_VERSION}.tar.xz
+TERMUX_PKG_SRCURL=https://gitlab.freedesktop.org/mesa/drm/-/archive/libdrm-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=45ba9983b51c896406a3d654de81d313b953b76e6391e2797073d543c5f617d5
 TERMUX_PKG_AUTO_UPDATE=true
 
